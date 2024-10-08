@@ -1,0 +1,1 @@
+This project was part of my tasks for a job simulation with Quantium, it included customer segmentation and leading factors surrounding transactions of several retail stores.  It includes several visualizations and statistcal analysis to carry out this task.
